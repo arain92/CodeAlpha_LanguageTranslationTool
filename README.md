@@ -10,5 +10,9 @@ A bold, colorful, modern SaaS-style AI translator built with vanilla HTML, CSS, 
 - Download translations as .txt or .pdf (with full Unicode/RTL script support)
 - Light/dark mode
 
+## 🚀 Live Demo
+
+🔗 **[Live on Vercel → https://language-translation-tool-nine.vercel.app/](https://language-translation-tool-nine.vercel.app/)**
+
 ## Usage
 Download `index.html` and open it directly in a browser. No build step or server required.
